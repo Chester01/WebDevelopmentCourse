@@ -52,31 +52,31 @@ nav ul li a
 
 .locationHom
 {
-    background-image: url(../Images/home_Blue.png);
+    background-image: url(../images/home_Blue.png);
     background-size: contain;
 }
 
 .locationTik 
 {
-    background-image: url(../Images/home_Pink.png);
+    background-image: url(../images/home_Pink.png);
     background-size: contain;
 }
 
 .locationGra 
 {
-    background-image: url(../Images/home_Red.png);
+    background-image: url(../images/home_Red.png);
     background-size: contain;
 }
 
 .locationInt 
 {
-    background-image: url(../Images/Home_Cyan.png);
+    background-image: url(../images/Home_Cyan.png);
     background-size: contain;
 }
 
 #Blue:hover 
 {
-    background-image: url(../Images/home_Blue.png);
+    background-image: url(../images/home_Blue.png);
     background-size: contain;
     transition: .5s;
     -webkit-transition: all .5s;
@@ -87,7 +87,7 @@ nav ul li a
 
 #Pink:hover 
 {
-    background-image: url(../Images/home_Pink.png);
+    background-image: url(../images/home_Pink.png);
     background-size: contain;
     transition: .5s;
     -webkit-transition: all .5s;
@@ -98,7 +98,7 @@ nav ul li a
 
 #Red:hover 
 {
-    background-image: url(../Images/home_Red.png);
+    background-image: url(../images/home_Red.png);
     background-size: contain;
     transition: .5s;
     -webkit-transition: all .5s;
@@ -109,7 +109,7 @@ nav ul li a
 
 #Cyan:hover 
 {
-    background-image: url(../Images/Home_Cyan.png);
+    background-image: url(../images/Home_Cyan.png);
     background-size: contain;
     transition: .5s;
     -webkit-transition: all .5s;
